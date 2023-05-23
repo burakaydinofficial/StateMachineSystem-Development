@@ -1,0 +1,3 @@
+[submodule "Assets/StateMachineSystem"]
+	path = Assets/StateMachineSystem
+	url = https://github.com/burakaydinofficial/StateMachineSystem.git
